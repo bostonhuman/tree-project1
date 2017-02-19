@@ -2,7 +2,7 @@
 
 In this project, we built with HTML & CSS.
 
-## Components for mawking the app running
+## Components for making the app running
 
 * HTML & CSS
 
